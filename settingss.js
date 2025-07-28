@@ -1,5 +1,5 @@
 module.exports = {
-  SESSION_ID: " ",  // malvin~9mdVEA7T#r-1JruAnmMnGxmHKDcBNhwI68t1on4FdxvLkWL4PyuM
+  SESSION_ID: " ",  // malvin~BrUChILY#5vnmxtxPFV_knznege9veZWE5m8eFO33t4RhgEedrU0
   OWNER_NUMBER: "263714757857", // PUT OWNER NUMBER HERE
   PREFIX: "." // .
 };
